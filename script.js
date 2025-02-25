@@ -18,7 +18,11 @@ const frases = [
     "La lucidez es un estado doloroso del alma.",
     "Nadie se salva solo, o nos salvamos juntos o nos hundimos.",
     "La verdadera sabiduría está en reconocer la propia ignorancia.",
-    "La esperanza es la peor de las mentiras, porque prolonga el sufrimiento."
+    "La esperanza es la peor de las mentiras, porque prolonga el sufrimiento.",
+    "La derrota tiene algo positivo, nunca es definitiva. En cambio la victoria tiene algo negativo, jamás es definitiva.",
+    "Todo el mundo me dice que tengo que hacer ejercicio, que es bueno para mi salud. Pero nunca he escuchado a nadie que le diga a un deportista que tiene que leer.",
+    "Vivimos observando sombras que se mueven y creemos que eso es la realidad."
+    
 ];
 
 let fraseActual;
